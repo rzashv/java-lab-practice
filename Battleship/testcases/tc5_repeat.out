@@ -1,0 +1,52 @@
+  A B C D E F G H I J
+  - - - - - - - - - -
+1 | P P   S     B B B B
+2 |       S
+3 | B     S   D D D   P
+4 | B                 P
+5 | B
+6 | B       P         S
+7 |         P         S
+8 | P P               S
+9 |
+10 |         A A A A A A
+Hit P
+  A B C D E F G H I J
+  - - - - - - - - - -
+1 | Xp P   S     B B B B
+2 |       S
+3 | B     S   D D D   P
+4 | B                 P
+5 | B
+6 | B       P         S
+7 |         P         S
+8 | P P               S
+9 |
+10 |         A A A A A A
+Try again
+  A B C D E F G H I J
+  - - - - - - - - - -
+1 | Xp P   S     B B B B
+2 |       S
+3 | B     S   D D D   P
+4 | B                 P
+5 | B
+6 | B       P         S
+7 |         P         S
+8 | P P               S
+9 |
+10 |         A A A A A A
+Hit P
+  A B C D E F G H I J
+  - - - - - - - - - -
+1 | Xp Xp   S     B B B B
+2 |       S
+3 | B     S   D D D   P
+4 | B                 P
+5 | B
+6 | B       P         S
+7 |         P         S
+8 | P P               S
+9 |
+10 |         A A A A A A
+Score 4
